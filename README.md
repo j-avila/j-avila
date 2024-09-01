@@ -24,19 +24,22 @@
 
 <!-- social media -->
 
-<p dir="auto"><a href="https://www.instagram.com/josefosaurus/" rel="nofollow"><img
-      src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465"
-      height="25"
-      data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"
-      style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/avilajose" rel="nofollow"><img
-      src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
-      height="25"
-      data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
-      style="max-width: 100%;"></a> <a href="https://www.twitter.com/josefosaurus" rel="nofollow"><img
-      src="https://camo.githubusercontent.com/e1c2fd3bcd4ed13889ed78d1e814261a7cfbc79ae826198b7813850b15a8d956/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465"
-      height="25"
-      data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white"
-      style="max-width: 100%;"></a></p>
+<p>
+    <a href="https://www.linkedin.com/in/avilajose" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30" />
+    </a>
+    <a href="https://www.dribble.com/josefosaurus/">
+        <img src="https://www.svgrepo.com/show/217757/dribbble.svg" alt="dribble" width="30" height="30" />
+    </a>
+     <a href="https://www.twitter.com/josefosaurus">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="30" height="30" />
+    </a>
+     <a href="https://www.instagram.com/josefosaurus/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" width="30" height="30" />
+    </a>
+    
+</p>
+
 
 <!-- profileview -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-avila&label=Profile%20views&color=0e75b6&style=flat"
